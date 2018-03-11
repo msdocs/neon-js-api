@@ -1,8 +1,8 @@
 {
-  "name": "neo-dapp-starter-kit",
-  "version": "0.1.0",
-  "description": "Invoke Smart Contracts & Read Storage Data on the NEO Blockchain using neon-js",
-  "author": "Dean van Dugteren",
+  "name": "neon-js-api",
+  "version": "0.0.1",
+  "description": "Invoke Smart Contracts via an API Special Thanks to Dean van Dugteren (@deanpress) for https://github.com/deanpress/neo-dapp-starter-kit",
+  "author": "Mahmoud Saleh",
   "main": "index.js",
   "dependencies": {
     "@cityofzion/neon-js": "2.0.0",
